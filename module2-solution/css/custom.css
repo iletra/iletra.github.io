@@ -3,13 +3,13 @@
     font-family: cursive;
 }
 
-.col-lg-4, .col-md-6, .col-sm-12{
+.col-md-4, .col-sm-6, .col-xs-12{
     float: left;
 }
 
 
 h1 {
-    margin-bottom: 15px;
+    margin-bottom: 50px;
     font-size: 175%;
     text-align: center;
 }
@@ -36,7 +36,7 @@ section {
     font-family: cursive;
     color: black;
     position: relative;
-    overflow: auto;
+    overflow: hidden;
 }
 
 .chickenbg {
